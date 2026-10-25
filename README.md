@@ -1,177 +1,276 @@
 # AI Microstock Keywording Tool — CyberStock
 
-**AI keyword generator for Adobe Stock, Shutterstock, Getty Images, iStock, Pond5 and more. Powered by 50M+ real buyer searches.**
+**AI microstock keywording, stock photography automation, and buyer-demand intelligence.**
 
-[**Try CyberStock Free**](https://cyberstock.lol/) · [**Free Microstock Keyword Tool**](https://cyberstock.lol/free-microstock-keyword-tool) · [**Live Stock Trends**](https://cyberstock.lol/adobe-stock-trends) · [**CyberPusher Chrome Extension**](https://chromewebstore.google.com/detail/cyberpusher-%E2%80%94-microstock/hfkcgcccblnlmncdicabhkipgndljoan)
+For Adobe Stock, Shutterstock, Getty Images, iStock, Pond5, and professional stock contributors. Powered by **50M+ buyer-search signals**.
 
-CyberStock is an **AI microstock keywording tool and stock upload automation platform** for photographers, videographers, vector artists, AI creators and creative studios. It produces titles, descriptions and relevant keywords for stock marketplaces, then helps contributors review, export and distribute their files.
+[**CyberStock Website**](https://cyberstock.lol/) · [**Free Keyword Tool**](https://cyberstock.lol/free-microstock-keyword-tool) · [**Discover Live Tracker**](https://cyberstock.lol/adobe-stock-trends) · [**CyberPusher for Chrome**](https://chromewebstore.google.com/detail/hfkcgcccblnlmncdicabhkipgndljoan) · [**Community Discussions**](https://github.com/bnprt-lab/cyberstock-ai-microstock-keywording-tool/discussions)
 
-Its metadata workflow combines signals from **50M+ buyer searches**, Google Trends and SEMrush with image understanding, instead of relying only on generic visual tags.
+CyberStock is an **AI microstock keywording tool and stock upload automation platform** for photographers, videographers, vector artists, AI creators and creative studios.
 
-> **At a glance:** ~1.33 seconds per file in priority mode · 50M+ buyer-search signals · Selling Score 0–100 · CyberBatch up to 1,000,000 files · CyberPusher with 0% commission · photos, videos and vectors · 15+ languages · API access.
+It generates titles, descriptions and relevant keywords for stock marketplaces, then helps contributors review, export and distribute their files.
+
+Its metadata workflow combines signals from **50M+ buyer searches**, Google Trends and SEMrush with AI image understanding.
+
+> **At a glance:** ~1.33 seconds per file in priority mode · 50M+ buyer-search signals · Selling Score 0–100 · CyberBatch up to 1,000,000 files · CyberPusher with 0% commission · Photos, videos and vectors · 15+ languages · API access.
+
+---
 
 ## AI Microstock Keywording Tool: What CyberStock Does
 
-| Workflow | CyberStock feature | Start here |
+| Workflow | CyberStock Feature | Start Here |
 | --- | --- | --- |
-| Generate buyer-focused metadata | AI titles, descriptions and stock photo keywords | [Free Microstock Keyword Tool](https://cyberstock.lol/free-microstock-keyword-tool) |
-| Optimize Adobe Stock keywords | Marketplace-aware keyword ordering and title creation | [Adobe Stock Keyword Order Checker](https://cyberstock.lol/free-adobe-stock-keyword-order-checker) |
-| Prepare Shutterstock submissions | Validate keyword lists and create titles | [Shutterstock Keyword Checker](https://cyberstock.lol/free-shutterstock-keyword-checker) |
-| Edit embedded metadata | IPTC/EXIF metadata and stock CSV workflows | [Free IPTC Editor](https://cyberstock.lol/free-iptc-editor) |
-| Research what buyers want | Live stock trends, bestseller rankings, demand vs. supply | [CyberStock Discover Live Tracker](https://cyberstock.lol/adobe-stock-trends) |
-| Upload to stock agencies | CyberPusher FTP/SFTP and Chrome browser automation | [CyberPusher Guide](https://cyberstock.lol/guides/cyberpusher) |
-| Integrate keywording into software | CyberStock metadata and Selling Score API | [API Documentation](https://cyberstock.lol/api-docs) |
+| AI Keyword Generation | Titles, descriptions and buyer-focused keywords | [Free Keyword Tool](https://cyberstock.lol/free-microstock-keyword-tool) |
+| Adobe Stock Optimization | Keyword ordering and title generation | [Adobe Stock Keyword Checker](https://cyberstock.lol/free-adobe-stock-keyword-order-checker) |
+| Shutterstock Metadata | Keyword validation and stock titles | [Shutterstock Keyword Checker](https://cyberstock.lol/free-shutterstock-keyword-checker) |
+| IPTC/XMP Metadata | Edit and organize image metadata | [Free IPTC Editor](https://cyberstock.lol/free-iptc-editor) |
+| Stock Market Research | Live trends, demand, supply and bestsellers | [Discover Live Tracker](https://cyberstock.lol/adobe-stock-trends) |
+| Upload Automation | Chrome extension, FTP/SFTP and agency workflows | [CyberPusher](https://cyberstock.lol/guides/cyberpusher) |
+| Developer Integration | Metadata generation and Selling Score API | [API Documentation](https://cyberstock.lol/api-docs) |
 
-### AI Stock Photo Keyword Generator: Buyer-Focused Metadata
+### AI Stock Photo Keyword Generator
 
-A stock photo keyword generator needs to do more than recognize objects. CyberStock generates **titles, descriptions and keywords** based on the visible subject, concepts and potential buyer intent, drawing on its 50M+ buyer-search data set and demand signals.
+A stock photo keyword generator should do more than recognize objects.
 
-Review the output before publishing so every term remains accurate for the image or video.
+CyberStock generates **titles, descriptions and keywords** based on image content, commercial concepts and potential buyer intent.
 
-- **Stock photo keyword generator** for photo libraries and creative portfolios.
-- **AI image keyword generator** for photos and illustrations.
-- **Stock video keywording** for footage contributors.
-- **Marketplace-aware metadata** for Adobe Stock, Shutterstock, Getty/iStock, Pond5 and other agencies.
-- **Multilingual metadata** in 15+ languages and both single-word and supported compound-keyword workflows.
+**Key capabilities:**
 
-[**Generate microstock keywords free →**](https://cyberstock.lol/free-microstock-keyword-tool)
+- **AI Image Keyword Generator:** Generate metadata from photos and illustrations.
+- **Stock Photo Keyword Generator:** Prepare buyer-focused keywords for stock agencies.
+- **Stock Video Keywording:** Generate searchable metadata for footage.
+- **Marketplace Optimization:** Support workflows for Adobe Stock, Shutterstock, Getty/iStock, Pond5 and more.
+- **Multilingual Metadata:** Generate metadata in 15+ languages.
+- **Commercial Keyword Intelligence:** Combine AI understanding with buyer-search signals.
 
-### Adobe Stock Keyword Tool: Titles, Keyword Order and Metadata
+[**Try the Free Microstock Keyword Tool →**](https://cyberstock.lol/free-microstock-keyword-tool)
 
-CyberStock supports Adobe Stock contributors who need relevant keywords, searchable titles, and agency-ready metadata.
+### Adobe Stock Keyword Tool
 
-Keyword relevance matters, and Adobe Stock gives particular importance to the **first 10 keywords**. CyberStock's workflow helps contributors generate metadata, check keyword order and export in agency-compatible formats.
+CyberStock helps Adobe Stock contributors generate relevant keywords, optimized titles and metadata.
+
+Adobe Stock gives particular importance to the **first 10 keywords**, making keyword ordering a key part of contributor workflows.
+
+**Adobe Stock tools:**
 
 - [Free Adobe Stock Keyword Order Checker](https://cyberstock.lol/free-adobe-stock-keyword-order-checker)
 - [Free Adobe Stock Title Generator](https://cyberstock.lol/free-adobe-stock-title-generator)
-- [Adobe Stock trends and live demand tracker](https://cyberstock.lol/adobe-stock-trends)
+- [Adobe Stock Live Trends Tracker](https://cyberstock.lol/adobe-stock-trends)
 
-### Shutterstock Keyword Generator and Keyword Checker
+### Shutterstock Keyword Generator
 
-Create Shutterstock-ready titles and keywords, validate duplicates or limits, and prepare metadata for submission.
+CyberStock supports Shutterstock contributors with AI-generated titles, descriptions, keyword validation and automated submission workflows.
 
-CyberStock can also distribute finished files through CyberPusher, depending on the chosen agency workflow and connection.
+**Shutterstock tools:**
 
 - [Free Shutterstock Keyword Checker](https://cyberstock.lol/free-shutterstock-keyword-checker)
 - [Free Shutterstock Title Generator](https://cyberstock.lol/free-shutterstock-title-generator)
-- [CyberPusher stock upload automation](https://cyberstock.lol/guides/cyberpusher)
+- [CyberPusher Stock Upload Automation](https://cyberstock.lol/guides/cyberpusher)
 
-## Fast AI Keywording and CyberBatch Automation
+---
 
-CyberStock's advertised **priority processing speed is approximately 1.33 seconds per image or video**. It is positioned as a market-leading high-speed keywording workflow; actual throughput depends on file type, plan and processing conditions.
+## High-Speed AI Keywording & CyberBatch
 
-**CyberBatch** extends that workflow to asynchronous jobs of **1,000–1,000,000 files**, with a stated **15% credit discount** for eligible large batches.
+**Approximately 1.33 seconds per file in priority processing mode.**
 
-Studios can generate metadata at scale, review the results and distribute ready-to-submit files without keywording assets one by one.
+CyberStock is designed for high-speed AI metadata processing, reducing repetitive keywording work for photographers and professional studios.
 
-**Selling Score (0–100)** helps contributors estimate an asset's commercial potential before upload. It is a decision-support score, not a promise of downloads or revenue.
+Actual processing speed depends on file type, workload and processing conditions.
 
-## CyberPusher: Automated Stock Photo and Video Uploads
+### CyberBatch: Up to 1,000,000 Files
 
-**CyberPusher** connects keywording to distribution. It supports **FTP/SFTP delivery and browser-based stock submission** via a Chrome extension, using contributors' own marketplace accounts.
+CyberBatch is CyberStock's large-scale asynchronous processing system.
 
-CyberStock charges **0% commission on stock royalties**; usage credits or subscription requirements still apply.
+**Capabilities include:**
 
-The workflow supports Adobe Stock, Shutterstock, Getty/iStock, Pond5 and additional agencies through the available integration methods. CyberPusher v2 browser automation requires an eligible active subscription.
+- Processing jobs from 1,000 to 1,000,000 files.
+- AI-generated titles, descriptions and keywords.
+- Batch metadata workflows.
+- Export-ready metadata.
+- A 15% credit discount for eligible CyberBatch processing.
 
-- [Install CyberPusher — Chrome Web Store](https://chromewebstore.google.com/detail/cyberpusher-%E2%80%94-microstock/hfkcgcccblnlmncdicabhkipgndljoan)
-- [Read the CyberPusher setup guide](https://cyberstock.lol/guides/cyberpusher)
+### Selling Score: 0–100
 
-## CyberStock Discover: Live Adobe Stock Trends, Buyer Demand and Supply Gaps
+CyberStock's Selling Score analyzes an asset's potential using AI and market-related signals.
 
-**CyberStock Discover** is a market-intelligence and **live stock photography trends tracker** for contributors deciding **what to create before they shoot or generate it**.
+The score helps contributors prioritize their portfolios and identify optimization opportunities. It does not guarantee future sales.
 
-Its public Adobe Stock Trends page displays current demand signals alongside competing file counts and periodically collected best-selling content.
+---
+
+## CyberPusher: Automated Stock Photo & Video Uploads
+
+**Generate metadata. Select your stock agencies. Automate distribution.**
+
+CyberPusher is CyberStock's microstock distribution system.
+
+It supports:
+
+- Automated contributor workflows.
+- Chrome browser extension.
+- FTP/SFTP distribution.
+- Marketplace-specific metadata.
+- Bulk stock uploads.
+- Supported Adobe Stock, Shutterstock, Getty/iStock, Pond5 and other agency workflows.
+- **0% commission on stock royalties.**
+
+Automation availability depends on the agency integration and CyberStock plan.
+
+**[Install CyberPusher on Chrome Web Store →](https://chromewebstore.google.com/detail/hfkcgcccblnlmncdicabhkipgndljoan)**
+
+[Read the CyberPusher Guide](https://cyberstock.lol/guides/cyberpusher)
+
+---
+
+## CyberStock Discover: Live Stock Photography Trends
+
+**Find demand. Find your niche. Create what buyers want.**
+
+CyberStock Discover helps photographers, AI artists and studios research stock market opportunities before producing new content.
+
+### Live Stock Market Intelligence
 
 Discover includes:
 
-- **Live keyword trends:** rising and breakout buyer searches.
-- **Demand vs. supply:** compare search interest with the number of competing stock files.
-- **Bestseller tracking:** rankings across Adobe Stock, Shutterstock, iStock, Getty Images and Pond5.
-- **Seasonality and forecasts:** historical demand patterns, upcoming peaks and suggested upload windows.
-- **Rank history and creative briefs:** research what sells and turn opportunities into production plans.
+- **Live Keyword Trends:** Track rising buyer searches.
+- **Demand vs. Supply:** Compare search demand with competing stock content.
+- **Bestseller Tracking:** Research popular assets across Adobe Stock, Shutterstock, Getty Images, iStock and Pond5.
+- **Seasonality:** Explore historical demand and upcoming seasonal opportunities.
+- **Content Opportunities:** Identify potentially underserved stock photography niches.
+- **Creative Research:** Turn market intelligence into actionable production ideas.
 
-[**Explore the live Adobe Stock Trends tracker →**](https://cyberstock.lol/adobe-stock-trends)
+**[Explore CyberStock Discover Live Tracker →](https://cyberstock.lol/adobe-stock-trends)**
 
-## CyberStock API: AI Metadata Generation for Developers and Studios
+---
 
-The **CyberStock Metadata API v1.0** makes AI keywording available in your own application or production workflow.
+## CyberStock API: AI Metadata for Developers
 
-Its documented `POST /v1/process` operation accepts an image/video reference and can return a **title, description, keywords, category and Selling Score**.
+CyberStock provides an API for developers, creative studios and automation workflows.
 
-Options include target marketplace, language, keyword limit, long-tail mode and editorial context.
+The API supports AI-powered metadata processing, including:
 
-API keys and the correct account-specific base URL are available inside CyberStock. API access is included with eligible plans or top-up purchases; it is not an anonymous free endpoint.
+- Stock photo and video titles.
+- AI keyword generation.
+- Search-focused descriptions.
+- Marketplace-specific metadata options.
+- Selling Score.
+- Language and keyword settings.
 
-[**CyberStock API Documentation and Code Examples →**](https://cyberstock.lol/api-docs)
+The documented processing endpoint is `POST /v1/process`.
 
-## Free Microstock Tools for Stock Contributors
+API processing requires an eligible account and valid credentials.
 
-CyberStock provides **22 free tools**, including metadata, image and video utilities.
+**[Explore CyberStock API Documentation →](https://cyberstock.lol/api-docs)**
 
-| Free tool | Purpose |
+---
+
+## Free Microstock Tools
+
+CyberStock provides **22 free tools** for stock photography metadata, image processing and video workflows.
+
+| Free Tool | What It Does |
 | --- | --- |
-| [Microstock Keyword Tool](https://cyberstock.lol/free-microstock-keyword-tool) | Generate titles, descriptions and keywords for a photo or video |
-| [Adobe Stock Keyword Order Checker](https://cyberstock.lol/free-adobe-stock-keyword-order-checker) | Review the order of Adobe Stock keywords |
-| [Shutterstock Keyword Checker](https://cyberstock.lol/free-shutterstock-keyword-checker) | Check keyword lists before submission |
-| [Video Codec Checker](https://cyberstock.lol/free-video-metadata-viewer) | Inspect footage codec and metadata for stock compatibility |
-| [IPTC Metadata Editor](https://cyberstock.lol/free-iptc-editor) | Edit embedded JPEG headline, description and keywords |
-| [Stock CSV Formatter](https://cyberstock.lol/free-stock-csv-formatter) | Prepare marketplace-specific metadata CSV files |
-| [Model & Property Release Generator](https://cyberstock.lol/free-release-generator) | Generate release-document templates in your browser |
+| [Microstock Keyword Tool](https://cyberstock.lol/free-microstock-keyword-tool) | Generate AI titles, descriptions and keywords |
+| [Adobe Stock Keyword Order Checker](https://cyberstock.lol/free-adobe-stock-keyword-order-checker) | Optimize keyword ordering |
+| [Shutterstock Keyword Checker](https://cyberstock.lol/free-shutterstock-keyword-checker) | Validate Shutterstock keywords |
+| [Video Codec Checker](https://cyberstock.lol/free-video-metadata-viewer) | Inspect video metadata and codecs |
+| [IPTC Metadata Editor](https://cyberstock.lol/free-iptc-editor) | Edit image metadata |
+| [Stock CSV Formatter](https://cyberstock.lol/free-stock-csv-formatter) | Format metadata CSV files |
+| [Model & Property Release Generator](https://cyberstock.lol/free-release-generator) | Create release-document templates |
 
-[**Browse all 22 free stock contributor tools →**](https://cyberstock.lol/free-tools)
+**[Explore All Free CyberStock Tools →](https://cyberstock.lol/free-tools)**
 
-## Practical Stock Photo Keywording Guide
+---
 
-1. **Identify the subject and purpose.** Describe the people, objects, action, setting and truthful commercial concepts shown in the asset.
-2. **Match buyer intent.** Prefer relevant terms a customer could use to find that exact stock photo or footage clip.
-3. **Choose the marketplace.** Apply Adobe Stock, Shutterstock or other agency-specific metadata rules.
-4. **Order and check keywords.** Keep the strongest accurate terms near the beginning where ordering matters; remove duplicates and misleading tags.
-5. **Export the right metadata.** Use IPTC/XMP and CSV formats appropriate for the receiving agency.
-6. **Validate, then upload.** Review the generated output and distribute through CyberPusher or your standard contributor workflow.
+## Stock Photo Keywording Best Practices
 
-### Frequently Asked Questions
+### 1. Identify the Main Subject
 
-**What is an AI microstock keywording tool?**
+Describe the visible subject, action, location and relevant concepts accurately.
 
-It generates searchable titles, descriptions and keywords for stock photos, videos or illustrations, helping stock agencies match relevant assets to buyer searches.
+### 2. Understand Buyer Search Intent
 
-**Can CyberStock generate Adobe Stock and Shutterstock metadata?**
+Consider how stock photography customers would search for the image or video.
 
-Yes. CyberStock supports marketplace-aware keyword and title generation, keyword checks, exports and automated submission workflows for these agencies.
+### 3. Optimize for Each Marketplace
 
-**Can I process large portfolios?**
+Apply the relevant metadata rules for Adobe Stock, Shutterstock and other agencies.
 
-Yes. CyberStock offers batch processing and CyberBatch jobs of up to 1,000,000 files, subject to plan and processing conditions.
+### 4. Prioritize Important Keywords
 
-**Is the CyberStock API public?**
+Use accurate, commercially relevant keywords. Follow marketplace requirements for keyword order.
 
-Documentation is public; processing access requires an API key and an eligible account.
+### 5. Avoid Keyword Spam
 
-**Does Selling Score guarantee a sale?**
+Remove duplicates and irrelevant terms. Accurate metadata is more valuable than excessive tagging.
 
-No. It is a market-potential indicator intended to help prioritize creative work and metadata review.
+### 6. Automate Repetitive Work
 
-## Community: Microstock Keywording Discussions
+Use CyberStock to generate metadata and CyberPusher to distribute finished files through supported workflows.
 
-Use this repository to share practical questions, examples and feedback on **AI microstock keywording, Adobe Stock metadata, Shutterstock keywords, stock photography trends, API workflows and stock upload automation**.
+---
 
-[**Join the CyberStock GitHub Discussions →**](https://github.com/bnprt-lab/cyberstock-keywording-guide/discussions)
+## Frequently Asked Questions
 
-This public repository is a keywording guide and discussion space, **not the source code of the proprietary CyberStock platform**.
+### What is an AI Microstock Keywording Tool?
 
-## CyberStock Official Links
+An AI microstock keywording tool automatically generates titles, descriptions and searchable keywords for stock photos, videos and illustrations.
 
-- **Website:** https://cyberstock.lol/
-- **Free Tools:** https://cyberstock.lol/free-tools
-- **Discover Live Tracker:** https://cyberstock.lol/adobe-stock-trends
-- **CyberPusher Guide:** https://cyberstock.lol/guides/cyberpusher
-- **CyberPusher Chrome Extension:** https://chromewebstore.google.com/detail/cyberpusher-%E2%80%94-microstock/hfkcgcccblnlmncdicabhkipgndljoan
-- **CyberStock API:** https://cyberstock.lol/api-docs
-- **Facebook:** https://www.facebook.com/cyberstock.lol
-- **LinkedIn:** https://www.linkedin.com/company/cyberstock-lol
-- **GitHub Discussions:** https://github.com/bnprt-lab/cyberstock-keywording-guide/discussions
+### Does CyberStock support Adobe Stock and Shutterstock?
 
-**CyberStock — AI Metadata That Sells.**
+Yes. CyberStock provides keywording, metadata and supported submission workflows for these marketplaces.
 
-[**Get started with 20 free credits →**](https://cyberstock.lol/)
+### How fast is CyberStock?
+
+CyberStock advertises approximately 1.33 seconds per file in priority processing mode.
+
+### Can CyberStock process large portfolios?
+
+Yes. CyberBatch supports asynchronous processing jobs of up to 1,000,000 files, subject to processing conditions.
+
+### Does CyberStock provide an API?
+
+Yes. Developers can integrate CyberStock AI metadata generation through its documented API.
+
+---
+
+## Join CyberStock GitHub Discussions
+
+We're building a public community for photographers, microstock contributors, developers and AI creators.
+
+**Discussion topics:**
+
+- AI Microstock Keywording Tools
+- Adobe Stock Keyword Optimization
+- Shutterstock Keyword Generators
+- Stock Photography Trends
+- IPTC/XMP Metadata
+- CyberPusher Automation
+- CyberStock API
+- Feature Requests and Feedback
+
+**[Join CyberStock GitHub Discussions →](https://github.com/bnprt-lab/cyberstock-ai-microstock-keywording-tool/discussions)**
+
+This repository is a public educational resource and community guide, not the source code of the proprietary CyberStock platform.
+
+---
+
+## Official CyberStock Links
+
+| Platform | Link |
+| --- | --- |
+| **Website** | [cyberstock.lol](https://cyberstock.lol/) |
+| **Free Tools** | [Explore Tools](https://cyberstock.lol/free-tools) |
+| **CyberStock Discover** | [Live Stock Trends](https://cyberstock.lol/adobe-stock-trends) |
+| **CyberStock API** | [API Documentation](https://cyberstock.lol/api-docs) |
+| **Chrome Extension** | [CyberPusher](https://chromewebstore.google.com/detail/hfkcgcccblnlmncdicabhkipgndljoan) |
+| **X / Twitter** | [@cyberstock_lol](https://x.com/cyberstock_lol) |
+| **Instagram** | [@cyberstock.lol](https://www.instagram.com/cyberstock.lol) |
+| **Facebook** | [CyberStock](https://www.facebook.com/cyberstock.lol) |
+| **LinkedIn** | [CyberStock Company](https://www.linkedin.com/company/cyberstock-lol) |
+| **GitHub** | [Community Discussions](https://github.com/bnprt-lab/cyberstock-ai-microstock-keywording-tool/discussions) |
+
+---
+
+### CyberStock — AI Metadata That Sells.
+
+**[Try CyberStock Free →](https://cyberstock.lol/)** · **[Join the Community →](https://github.com/bnprt-lab/cyberstock-ai-microstock-keywording-tool/discussions)**
